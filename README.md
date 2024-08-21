@@ -6,3 +6,6 @@ Further improvements:
 1. This is a laptop only website , so I am planning to add configs for mobile devices also.
 
 For any other improvements please raise a pull request if you think of any and if it suits the agenda of the project will surely merge it.
+
+Deployed Link:
+https://weather-mithi.netlify.app/
